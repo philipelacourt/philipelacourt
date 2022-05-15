@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on enterprises and companies
 - 📫 How to reach me:
 - Email; philipelacourt@gmail.com
-- Linkedin: https://www.linkedin.com/in/philipe-lacourt-salgado/
+- Linkedin; https://www.linkedin.com/in/philipe-lacourt-salgado/
 
 <!---
 philipelacourt/philipelacourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
