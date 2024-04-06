@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @philipelacourt
 - 👀 I’m interested in learning lenguages and challenges
-- 💞️ I’m looking to collaborate on enterprises and companies
 - 📫 How to reach me:
-- Email; philipe@philipelacourt.xyz
+- Email; philipelacourt@gmail.com
 - Linkedin; https://www.linkedin.com/in/philipe-lacourt-salgado/
 
 <!---
