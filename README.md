@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philipelacourt
-- 👀 I’m interested in learning lenguages and challenges
+- 👀 I’m interested in learning lenguages
 - 📫 How to reach me:
 - Email; philipelacourt@gmail.com
 - Linkedin; https://www.linkedin.com/in/philipe-lacourt-salgado/
